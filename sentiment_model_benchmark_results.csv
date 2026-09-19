@@ -1,0 +1,6 @@
+Paradigm,Model Architecture,Accuracy,F1-Score
+Transformer (Pre-trained),DistilBERT (Transformer),0.9090909090909091,0.9084249084249084
+Deep Learning (Recurrent),Dense Embedding + GlobalPooling,0.8418181818181818,0.8317214700193424
+Traditional ML,Logistic Regression (BOW),0.8090909090909091,0.8080438756855576
+Deep Learning (Averaged),Bidirectional LSTM,0.7981818181818182,0.7948243992606284
+Traditional ML,Linear SVM (BOW),0.7872727272727272,0.7891891891891892
